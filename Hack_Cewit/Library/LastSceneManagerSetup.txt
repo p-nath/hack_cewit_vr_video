@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/low poly pack/scene/Demo2.unity
+  isLoaded: 1
+  isActive: 0
